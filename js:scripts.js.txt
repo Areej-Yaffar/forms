@@ -1,0 +1,5 @@
+<meta name='viewport' content='width=device-width, initial-scale=1'/><script>document.addEventListener('DOMContentLoaded', function() {
+    console.log('La página ha cargado');
+    // Aquí puedes agregar más interactividad del lado del cliente
+});
+</script>
